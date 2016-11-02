@@ -20,6 +20,7 @@ import pble.enpit2016.zerocontact.FriendActivity;
 import pble.enpit2016.zerocontact.R;
 
 /**
+ * さっきとは違うコメント
  * Created by kyokn on 2016/10/31.
  */
 
